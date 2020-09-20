@@ -70,5 +70,15 @@ Saved/*
 Intermediate/*
 Plugins/*/Intermediate/*
 
+# Mac Artifacts
+.DS_Store
+
+# Vim Artifacts
+*.swp
+*.swo
+.ctrlp_cache/
+
 # Cache files for the editor to use
 DerivedDataCache/*
+GetDemPokes/Saved/
+GetDemPokes/Intermediate/
